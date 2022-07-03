@@ -1,1 +1,1 @@
-![https://raw.githubusercontent.com/samuelPapranec/citadela_alpha/main/weekly_event_calendars/econ_cal23.png](https://raw.githubusercontent.com/samuelPapranec/citadela_alpha/main/weekly_event_calendars/econ_cal23.png)
+![https://github.com/samuelPapranec/citadela_alpha/blob/main/weekly_event_calendars/ekonkal24.png](https://github.com/samuelPapranec/citadela_alpha/blob/main/weekly_event_calendars/ekonkal24.png)
